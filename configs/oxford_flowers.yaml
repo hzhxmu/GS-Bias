@@ -1,0 +1,5 @@
+# Configuration for GSBias Hyperparameters
+alpha: 1.0
+beta: 1.0 
+K: 64
+T: 5
