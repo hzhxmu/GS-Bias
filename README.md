@@ -1,6 +1,8 @@
 # GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models
-Pytorch implementation of our paper accepted by ICML 2025 -- **GS-Bias**.
 ![image](https://github.com/hzhxmu/GS-Bias/blob/main/docs/GS-Bias.png)
+
+### News
+- **2025.05.01**:🔥GS-Bias has been accepted to ICML 2025!
 
 ### Install
 
