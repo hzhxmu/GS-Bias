@@ -53,18 +53,5 @@ bash scripts/GSBias_Domain.sh
 bash scripts/GSBias_CrossDataset.sh
 ```
 
-### Citation
-If you find GS-Bias useful for your research, please cite using this BibTeX:
-```
-@inproceedings{
-huang2025gsbias,
-title={{GS}-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models},
-author={Zhaohong Huang and Yuxin Zhang and JingJing Xie and Fei Chao and Rongrong Ji},
-booktitle={Forty-second International Conference on Machine Learning},
-year={2025},
-url={https://openreview.net/forum?id=gdE3HbHkIL}
-}
-```
-
 
 
