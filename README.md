@@ -2,7 +2,7 @@
 ![image](https://github.com/hzhxmu/GS-Bias/blob/main/docs/GS-Bias.png)
 
 ### News
-- **2025.05.01**:🔥GS-Bias has been accepted to ICML 2025!
+- **2025.05.01**:🔥GS-Bias has been accepted to ICML 2025! [Paper](https://arxiv.org/abs/2507.11969)
 
 ### Install
 
@@ -52,6 +52,21 @@ bash scripts/GSBias_Domain.sh
 ```
 bash scripts/GSBias_CrossDataset.sh
 ```
+
+### Citation
+If you find GS-Bias useful for your research, please cite using this BibTeX:
+```
+@misc{huang2025gsbiasglobalspatialbiaslearner,
+      title={GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models}, 
+      author={Zhaohong Huang and Yuxin Zhang and Jingjing Xie and Fei Chao and Rongrong Ji},
+      year={2025},
+      eprint={2507.11969},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.11969}, 
+}
+```
+
 
 
 
