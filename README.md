@@ -2,7 +2,7 @@
 ![image](https://github.com/hzhxmu/GS-Bias/blob/main/docs/GS-Bias.png)
 
 ### News
-- **2025.05.01**:🔥GS-Bias has been accepted to ICML 2025! [Paper](https://arxiv.org/abs/2507.11969)
+- **2025.05.01**:🔥GS-Bias has been accepted to ICML 2025!  [[Paper]](https://arxiv.org/abs/2507.11969)
 
 ### Install
 
